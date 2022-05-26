@@ -1,0 +1,21 @@
+C:\DotNetPractice\ConsoleApp1\ConsoleApp5\bin\Debug\net6.0\Oops Concepts Modules.deps.json
+C:\DotNetPractice\ConsoleApp1\ConsoleApp5\bin\Debug\net6.0\Oops Concepts Modules.runtimeconfig.json
+C:\DotNetPractice\ConsoleApp1\ConsoleApp5\bin\Debug\net6.0\Oops Concepts Modules.exe
+C:\DotNetPractice\ConsoleApp1\ConsoleApp5\bin\Debug\net6.0\Oops Encapsulation.exe
+C:\DotNetPractice\ConsoleApp1\ConsoleApp5\bin\Debug\net6.0\Oops Encapsulation.deps.json
+C:\DotNetPractice\ConsoleApp1\ConsoleApp5\bin\Debug\net6.0\Oops Encapsulation.runtimeconfig.json
+C:\DotNetPractice\ConsoleApp1\ConsoleApp5\bin\Debug\net6.0\Oops Encapsulation.dll
+C:\DotNetPractice\ConsoleApp1\ConsoleApp5\bin\Debug\net6.0\Oops Encapsulation.pdb
+C:\DotNetPractice\ConsoleApp1\ConsoleApp5\bin\Debug\net6.0\Oops Concepts Modules.dll
+C:\DotNetPractice\ConsoleApp1\ConsoleApp5\bin\Debug\net6.0\Oops Concepts Modules.pdb
+C:\DotNetPractice\ConsoleApp1\ConsoleApp5\obj\Debug\net6.0\Oops Encapsulation.csproj.AssemblyReference.cache
+C:\DotNetPractice\ConsoleApp1\ConsoleApp5\obj\Debug\net6.0\Oops Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetPractice\ConsoleApp1\ConsoleApp5\obj\Debug\net6.0\Oops Encapsulation.AssemblyInfoInputs.cache
+C:\DotNetPractice\ConsoleApp1\ConsoleApp5\obj\Debug\net6.0\Oops Encapsulation.AssemblyInfo.cs
+C:\DotNetPractice\ConsoleApp1\ConsoleApp5\obj\Debug\net6.0\Oops Encapsulation.csproj.CoreCompileInputs.cache
+C:\DotNetPractice\ConsoleApp1\ConsoleApp5\obj\Debug\net6.0\Oops Encapsulation.csproj.CopyComplete
+C:\DotNetPractice\ConsoleApp1\ConsoleApp5\obj\Debug\net6.0\Oops Encapsulation.dll
+C:\DotNetPractice\ConsoleApp1\ConsoleApp5\obj\Debug\net6.0\refint\Oops Encapsulation.dll
+C:\DotNetPractice\ConsoleApp1\ConsoleApp5\obj\Debug\net6.0\Oops Encapsulation.pdb
+C:\DotNetPractice\ConsoleApp1\ConsoleApp5\obj\Debug\net6.0\Oops Encapsulation.genruntimeconfig.cache
+C:\DotNetPractice\ConsoleApp1\ConsoleApp5\obj\Debug\net6.0\ref\Oops Encapsulation.dll

@@ -1,0 +1,15 @@
+C:\DotNetPractice\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Oops Concepts Modules.exe
+C:\DotNetPractice\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Oops Concepts Modules.deps.json
+C:\DotNetPractice\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Oops Concepts Modules.runtimeconfig.json
+C:\DotNetPractice\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Oops Concepts Modules.dll
+C:\DotNetPractice\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Oops Concepts Modules.pdb
+C:\DotNetPractice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Oops Concepts Modules.csproj.AssemblyReference.cache
+C:\DotNetPractice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Oops Concepts Modules.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetPractice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Oops Concepts Modules.AssemblyInfoInputs.cache
+C:\DotNetPractice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Oops Concepts Modules.AssemblyInfo.cs
+C:\DotNetPractice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Oops Concepts Modules.csproj.CoreCompileInputs.cache
+C:\DotNetPractice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Oops Concepts Modules.dll
+C:\DotNetPractice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Oops Concepts Modules.dll
+C:\DotNetPractice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Oops Concepts Modules.pdb
+C:\DotNetPractice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Oops Concepts Modules.genruntimeconfig.cache
+C:\DotNetPractice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Oops Concepts Modules.dll
