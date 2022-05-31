@@ -10,7 +10,7 @@ namespace ConsoleApp5
             //If Encapusulation class is public it is available out side of the assembly.
             
             Encapsulation encapsulation = new Encapsulation();
-
+          //  encapsulation._id = 20;
 
             
         }

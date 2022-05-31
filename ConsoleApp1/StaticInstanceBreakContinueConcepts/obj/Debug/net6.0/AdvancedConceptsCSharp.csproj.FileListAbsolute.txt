@@ -1,0 +1,21 @@
+C:\DotNetPractice\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6.0\AdvancedConceptsCSharp.csproj.AssemblyReference.cache
+C:\DotNetPractice\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6.0\AdvancedConceptsCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetPractice\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6.0\AdvancedConceptsCSharp.AssemblyInfoInputs.cache
+C:\DotNetPractice\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6.0\AdvancedConceptsCSharp.AssemblyInfo.cs
+C:\DotNetPractice\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6.0\AdvancedConceptsCSharp.csproj.CoreCompileInputs.cache
+C:\DotNetPractice\ConsoleApp1\StaticInstanceBreakContinueConcepts\bin\Debug\net6.0\Oops Concepts Modules.deps.json
+C:\DotNetPractice\ConsoleApp1\StaticInstanceBreakContinueConcepts\bin\Debug\net6.0\Oops Concepts Modules.runtimeconfig.json
+C:\DotNetPractice\ConsoleApp1\StaticInstanceBreakContinueConcepts\bin\Debug\net6.0\Oops Concepts Modules.exe
+C:\DotNetPractice\ConsoleApp1\StaticInstanceBreakContinueConcepts\bin\Debug\net6.0\AdvancedConceptsCSharp.exe
+C:\DotNetPractice\ConsoleApp1\StaticInstanceBreakContinueConcepts\bin\Debug\net6.0\AdvancedConceptsCSharp.deps.json
+C:\DotNetPractice\ConsoleApp1\StaticInstanceBreakContinueConcepts\bin\Debug\net6.0\AdvancedConceptsCSharp.runtimeconfig.json
+C:\DotNetPractice\ConsoleApp1\StaticInstanceBreakContinueConcepts\bin\Debug\net6.0\AdvancedConceptsCSharp.dll
+C:\DotNetPractice\ConsoleApp1\StaticInstanceBreakContinueConcepts\bin\Debug\net6.0\AdvancedConceptsCSharp.pdb
+C:\DotNetPractice\ConsoleApp1\StaticInstanceBreakContinueConcepts\bin\Debug\net6.0\Oops Concepts Modules.dll
+C:\DotNetPractice\ConsoleApp1\StaticInstanceBreakContinueConcepts\bin\Debug\net6.0\Oops Concepts Modules.pdb
+C:\DotNetPractice\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6.0\AdvancedConceptsCSharp.csproj.CopyComplete
+C:\DotNetPractice\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6.0\AdvancedConceptsCSharp.dll
+C:\DotNetPractice\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6.0\refint\AdvancedConceptsCSharp.dll
+C:\DotNetPractice\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6.0\AdvancedConceptsCSharp.pdb
+C:\DotNetPractice\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6.0\AdvancedConceptsCSharp.genruntimeconfig.cache
+C:\DotNetPractice\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6.0\ref\AdvancedConceptsCSharp.dll

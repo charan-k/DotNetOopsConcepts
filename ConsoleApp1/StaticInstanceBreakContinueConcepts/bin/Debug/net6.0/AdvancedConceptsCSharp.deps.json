@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AdvancedConceptsCSharp/1.0.0": {
+        "runtime": {
+          "AdvancedConceptsCSharp.dll": {}
+        }
+      },
+      "Oops Concepts Modules/1.0.0": {
+        "runtime": {
+          "Oops Concepts Modules.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdvancedConceptsCSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Oops Concepts Modules/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
