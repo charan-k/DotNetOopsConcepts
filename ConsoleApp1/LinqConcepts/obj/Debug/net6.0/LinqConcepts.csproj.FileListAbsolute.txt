@@ -1,0 +1,15 @@
+C:\DotNetPractice\ConsoleApp1\LinqConcepts\bin\Debug\net6.0\LinqConcepts.exe
+C:\DotNetPractice\ConsoleApp1\LinqConcepts\bin\Debug\net6.0\LinqConcepts.deps.json
+C:\DotNetPractice\ConsoleApp1\LinqConcepts\bin\Debug\net6.0\LinqConcepts.runtimeconfig.json
+C:\DotNetPractice\ConsoleApp1\LinqConcepts\bin\Debug\net6.0\LinqConcepts.dll
+C:\DotNetPractice\ConsoleApp1\LinqConcepts\bin\Debug\net6.0\LinqConcepts.pdb
+C:\DotNetPractice\ConsoleApp1\LinqConcepts\obj\Debug\net6.0\LinqConcepts.csproj.AssemblyReference.cache
+C:\DotNetPractice\ConsoleApp1\LinqConcepts\obj\Debug\net6.0\LinqConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetPractice\ConsoleApp1\LinqConcepts\obj\Debug\net6.0\LinqConcepts.AssemblyInfoInputs.cache
+C:\DotNetPractice\ConsoleApp1\LinqConcepts\obj\Debug\net6.0\LinqConcepts.AssemblyInfo.cs
+C:\DotNetPractice\ConsoleApp1\LinqConcepts\obj\Debug\net6.0\LinqConcepts.csproj.CoreCompileInputs.cache
+C:\DotNetPractice\ConsoleApp1\LinqConcepts\obj\Debug\net6.0\LinqConcepts.dll
+C:\DotNetPractice\ConsoleApp1\LinqConcepts\obj\Debug\net6.0\refint\LinqConcepts.dll
+C:\DotNetPractice\ConsoleApp1\LinqConcepts\obj\Debug\net6.0\LinqConcepts.pdb
+C:\DotNetPractice\ConsoleApp1\LinqConcepts\obj\Debug\net6.0\LinqConcepts.genruntimeconfig.cache
+C:\DotNetPractice\ConsoleApp1\LinqConcepts\obj\Debug\net6.0\ref\LinqConcepts.dll

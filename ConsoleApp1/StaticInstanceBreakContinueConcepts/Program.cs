@@ -264,6 +264,67 @@ namespace StaticInstanceBreakContinueConcepts
 
             int[] marks1 = new int[] { 99, 98, 92, 97, 95 };
 
+            // Arrays remove
+
+          //  Remove all occurrences of an element from an array:
+            int[] numbers = { 1, 3, 4, 5, 4, 2 };
+            int numToRemove = 4;
+            numbers = numbers.Where(val => val != numToRemove).ToArray();
+            Console.WriteLine(String.Join(",", numbers));
+            /*
+            Output: 1,3,5,2
+            */
+
+
+            int[] array = { 1, 3, 4, 5, 4, 2 };
+            int item = 4;
+
+            array = array.Except(new int[] { item }).ToArray();
+            Console.WriteLine(String.Join(",", array));
+
+            /*
+            Output: 1,3,5,2
+            */
+
+
+            // Resize array
+
+            string[] myarray = {"C#", "C++", "Ruby",
+                         "Java", "PHP", "Perl"};
+
+            // Display original string before Resize
+            Console.WriteLine("Original Array:");
+
+            foreach (string k in myarray)
+            {
+                Console.WriteLine(k);
+            }
+
+            // Length of old array
+            int len = myarray.Length;
+
+            Console.WriteLine("Length of myarray: " + len);
+            Console.WriteLine();
+
+            // Resize the element of myarray 
+            // and create a new array
+            // Here new array is greater than
+            // original array so, all the element 
+            // from myarray is copied to new array
+            // and remaining will be null
+            Array.Resize(ref myarray, 10);
+
+            Console.WriteLine("New array is greater than myarray:");
+
+            foreach (string j in myarray)
+            {
+                Console.WriteLine(j);
+            }
+
+            // Length of new array
+            int len1 = myarray.Length;
+            Console.WriteLine("Length of New Array: " + len1);
+
             #endregion
 
             #region ArraySort

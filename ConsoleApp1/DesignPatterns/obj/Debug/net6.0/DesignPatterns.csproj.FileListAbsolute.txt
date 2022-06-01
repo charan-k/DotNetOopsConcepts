@@ -1,0 +1,15 @@
+C:\DotNetPractice\ConsoleApp1\DesignPatterns\bin\Debug\net6.0\DesignPatterns.exe
+C:\DotNetPractice\ConsoleApp1\DesignPatterns\bin\Debug\net6.0\DesignPatterns.deps.json
+C:\DotNetPractice\ConsoleApp1\DesignPatterns\bin\Debug\net6.0\DesignPatterns.runtimeconfig.json
+C:\DotNetPractice\ConsoleApp1\DesignPatterns\bin\Debug\net6.0\DesignPatterns.dll
+C:\DotNetPractice\ConsoleApp1\DesignPatterns\bin\Debug\net6.0\DesignPatterns.pdb
+C:\DotNetPractice\ConsoleApp1\DesignPatterns\obj\Debug\net6.0\DesignPatterns.csproj.AssemblyReference.cache
+C:\DotNetPractice\ConsoleApp1\DesignPatterns\obj\Debug\net6.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetPractice\ConsoleApp1\DesignPatterns\obj\Debug\net6.0\DesignPatterns.AssemblyInfoInputs.cache
+C:\DotNetPractice\ConsoleApp1\DesignPatterns\obj\Debug\net6.0\DesignPatterns.AssemblyInfo.cs
+C:\DotNetPractice\ConsoleApp1\DesignPatterns\obj\Debug\net6.0\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\DotNetPractice\ConsoleApp1\DesignPatterns\obj\Debug\net6.0\DesignPatterns.dll
+C:\DotNetPractice\ConsoleApp1\DesignPatterns\obj\Debug\net6.0\refint\DesignPatterns.dll
+C:\DotNetPractice\ConsoleApp1\DesignPatterns\obj\Debug\net6.0\DesignPatterns.pdb
+C:\DotNetPractice\ConsoleApp1\DesignPatterns\obj\Debug\net6.0\DesignPatterns.genruntimeconfig.cache
+C:\DotNetPractice\ConsoleApp1\DesignPatterns\obj\Debug\net6.0\ref\DesignPatterns.dll
