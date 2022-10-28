@@ -37,9 +37,32 @@ namespace StaticInstanceBreakContinueConcepts
         }
     }
 
+    //Static clas
+    static class Test
+    {
+        static int a = 5;
+        static void display()
+        {
 
-    //Access modifiers
-    public class Customer
+            Console.WriteLine("Static method");
+        }
+
+        //static void Main(string[] args)
+        //{
+        //    //Since we cannot make an object of the static class, we get the following error:
+        //    //  Cannot declare a variable of static type 'Test'
+        //    //   error CS0712: Cannot create an instance of the static class
+        //    // creating object of Test
+        //    //   Test t1 = new Test();
+        //    Console.WriteLine(a);
+        //    display();
+
+        //    //    Note: We cannot inherit a static class in C#. For example,
+        //}
+}
+
+//Access modifiers
+public class Customer
     {
         private int _id;
 
