@@ -108,6 +108,34 @@ namespace StringPractice
             Console.WriteLine(sb);
 
             #endregion
+            //To find the numeric content from the input1 word
+
+            string input1 = "ABC3454 ";
+            string outputnumber = string.Concat(input1.Where(Char.IsDigit));
+
+            // To find the string content from the word which has stringandnumeric in it
+
+            string input2 = "helloworld123";
+
+            string outputstring = new string(input2.Where(Char.IsLetter).ToArray());
+
+            // reverse a number
+
+            int s = 34567;
+
+            char[] charArray = s.ToString().ToCharArray();
+            Array.Reverse(charArray);
+             string j= new string(charArray);
+            int k = Convert.ToInt32(j);
+
+            // reverse a string
+            string strword = "reverse";
+            char[] charArray1 = strword.ToCharArray();
+
+            Array.Reverse(charArray1);
+            
+            string j1 = new string(charArray1);
+            
 
         }
     }
