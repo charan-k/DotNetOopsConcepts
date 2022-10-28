@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +9,8 @@ namespace RestSharpTraining
 {
     class RetrievePostValidResponse
     {
-        public int id { get; set; }
+        [JsonProperty("id")]
+        public int Inte { get; set; }
 
         public string? title { get; set; }
 
