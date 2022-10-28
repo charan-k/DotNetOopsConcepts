@@ -8,13 +8,14 @@ namespace Collections
         {
 
             #region List
+            //It can have duplicate elements
 
             List<User> listOfUsers = new List<User>()
-        {
+            {
         new User() { Name = "John Doe", Age = 42 },
         new User() { Name = "Jane Doe", Age = 34 },
         new User() { Name = "Joe Doe", Age = 8 },
-        };
+            };
 
             foreach (User v in listOfUsers)
             {
@@ -40,6 +41,34 @@ namespace Collections
 
             foreach (var num in numbers11)
                 Console.Write(num);
+
+            var names1 = new List<string>() { "Sonoo", "Ajay", "Vimal","Babul", "Sonoo", "Love" };
+
+            names1.Sort();
+            // Iterate through the list.  
+            foreach (var name in names1)
+            {
+                Console.WriteLine(name);
+            }
+            #endregion
+
+            #region HashSet
+
+            //It does not store duplicate elements.
+            //HashSet class if you have to store only unique elements.
+            var hashset = new HashSet<string>();
+            hashset.Add("Sonoo");
+            hashset.Add("Ankit");
+            hashset.Add("Peter");
+            hashset.Add("Irfan");
+            hashset.Add("Ankit");//will not be added  
+
+            // Iterate HashSet elements using foreach loop  
+            foreach (var name in hashset)
+            {
+                Console.WriteLine(name);
+            }
+
             #endregion
 
             #region ArrayLIst 
@@ -204,7 +233,7 @@ namespace Collections
             numberNames.Add(3, "Three");
 
             //The following throws run-time exception: key already added.
-            //numberNames.Add(3, "Three"); 
+            numberNames.Add(3 ,"Three"); 
 
             foreach (KeyValuePair<int, string> kvp in numberNames)
                 Console.WriteLine("Key: {0}, Value: {1}", kvp.Key, kvp.Value);
@@ -222,6 +251,8 @@ namespace Collections
 
             #region Hashtable
 
+            //In Hashtable, you can store key/value pairs of the same type or of the different type.
+            //In Hashtable, there is no need to specify the type of the key and value.
             // Create a hashtable
             // Using Hashtable class
             Hashtable my_hashtable1 = new Hashtable();
@@ -292,7 +323,7 @@ namespace Collections
             Console.ReadLine();
 
 
-            IEnumerable<string> QuerySyntax = from obj in List
+            IEnumerable QuerySyntax = from obj in List
                                           where obj.Length==3
                                           select obj;
 
