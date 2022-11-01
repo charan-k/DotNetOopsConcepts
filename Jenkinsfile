@@ -15,5 +15,6 @@ pipeline {
 		 emailext body: 'This is email body', subject: 'This is email subject', to: 'induricharan@gmail.com'
 		 }
         
+        }
+     }
     }
-}
