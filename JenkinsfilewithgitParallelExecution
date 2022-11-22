@@ -19,7 +19,7 @@ pipeline {
         stage('Regression') {
           steps {
             echo 'Regression'
-            node(label: 'node1')
+           
           }
         }
 
