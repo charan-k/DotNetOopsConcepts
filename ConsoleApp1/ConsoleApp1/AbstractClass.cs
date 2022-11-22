@@ -2,6 +2,7 @@
 {
     // Abstract class contains both abstract and non abstract methods
     // We cannot instantiate an abstract class
+    //we cannot create objects of an abstract class.
     public abstract class AbstractClass
     {
         // abstract class contains fields

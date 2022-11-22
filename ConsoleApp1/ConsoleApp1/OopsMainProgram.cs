@@ -43,6 +43,17 @@ namespace ConsoleApp1
             interfacei2.Sum();
             interfacei2.Display();
 
+            // Implement Polymorphism using interface
+            // Base class reference variable can hold child class object
+            // and using base class reference we can access all the methods of child class 
+            //Interface Example
+
+            IPolygon r1 = new Rectangle();
+            r1.calculateArea();
+
+            IPolygon s1 = new Square();
+            s1.calculateArea();
+
 
 
             //Implement Polymorphism using AbstractClass

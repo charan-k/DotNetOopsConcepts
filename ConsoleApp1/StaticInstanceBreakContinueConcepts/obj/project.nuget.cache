@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sA+B0HXgBkQGgTt6citWrKS3/COk91zVohz2l7xY6rjcmopClH60hHJZJfZAnEFsQyjAdYU0YGfT2fEAGFgc7Q==",
+  "dgSpecHash": "UoGCnmRpvMcCiVPited2O/ZthOH5g5T2n3yMsMJXleXNtbbvGO566IU3AuZBy1xpXcVc5rHt/Y7gFHGwpncunw==",
   "success": true,
-  "projectFilePath": "C:\\DotNetPractice\\ConsoleApp1\\StaticInstanceBreakContinueConcepts\\AdvancedConceptsCSharp.csproj",
+  "projectFilePath": "C:\\Users\\Charan_Kumar\\source\\repos\\DotNetOopsConcepts\\ConsoleApp1\\StaticInstanceBreakContinueConcepts\\AdvancedConceptsCSharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

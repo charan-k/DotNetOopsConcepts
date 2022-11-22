@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SkThU+ZfIHyPTb5jZt0Z8vhS+9o++f91PL3QuEsHmKaccXGpoIRerwtIxW3Ibeq0tWhotFJYV9Kkg4ZPE7BMSg==",
+  "dgSpecHash": "p9fp2E4g0N6iag95/+E0Mls0RnSeA2FsU7e0LEd2DyOOJCAU0Bkum89i9hiWlPAd7mPXuv68Z1T8PSznBvITLg==",
   "success": true,
-  "projectFilePath": "C:\\DotNetPractice\\ConsoleApp1\\LinqConcepts\\LinqConcepts.csproj",
+  "projectFilePath": "C:\\Users\\Charan_Kumar\\source\\repos\\DotNetOopsConcepts\\ConsoleApp1\\LinqConcepts\\LinqConcepts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

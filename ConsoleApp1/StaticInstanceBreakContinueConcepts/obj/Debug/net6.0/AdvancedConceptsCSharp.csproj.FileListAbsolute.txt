@@ -19,3 +19,24 @@ C:\DotNetPractice\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6
 C:\DotNetPractice\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6.0\AdvancedConceptsCSharp.pdb
 C:\DotNetPractice\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6.0\AdvancedConceptsCSharp.genruntimeconfig.cache
 C:\DotNetPractice\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6.0\ref\AdvancedConceptsCSharp.dll
+C:\Users\Charan_Kumar\source\repos\DotNetOopsConcepts\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6.0\AdvancedConceptsCSharp.csproj.AssemblyReference.cache
+C:\Users\Charan_Kumar\source\repos\DotNetOopsConcepts\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6.0\AdvancedConceptsCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charan_Kumar\source\repos\DotNetOopsConcepts\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6.0\AdvancedConceptsCSharp.AssemblyInfoInputs.cache
+C:\Users\Charan_Kumar\source\repos\DotNetOopsConcepts\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6.0\AdvancedConceptsCSharp.AssemblyInfo.cs
+C:\Users\Charan_Kumar\source\repos\DotNetOopsConcepts\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6.0\AdvancedConceptsCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Charan_Kumar\source\repos\DotNetOopsConcepts\ConsoleApp1\StaticInstanceBreakContinueConcepts\bin\Debug\net6.0\Oops Concepts Modules.deps.json
+C:\Users\Charan_Kumar\source\repos\DotNetOopsConcepts\ConsoleApp1\StaticInstanceBreakContinueConcepts\bin\Debug\net6.0\Oops Concepts Modules.runtimeconfig.json
+C:\Users\Charan_Kumar\source\repos\DotNetOopsConcepts\ConsoleApp1\StaticInstanceBreakContinueConcepts\bin\Debug\net6.0\Oops Concepts Modules.exe
+C:\Users\Charan_Kumar\source\repos\DotNetOopsConcepts\ConsoleApp1\StaticInstanceBreakContinueConcepts\bin\Debug\net6.0\AdvancedConceptsCSharp.exe
+C:\Users\Charan_Kumar\source\repos\DotNetOopsConcepts\ConsoleApp1\StaticInstanceBreakContinueConcepts\bin\Debug\net6.0\AdvancedConceptsCSharp.deps.json
+C:\Users\Charan_Kumar\source\repos\DotNetOopsConcepts\ConsoleApp1\StaticInstanceBreakContinueConcepts\bin\Debug\net6.0\AdvancedConceptsCSharp.runtimeconfig.json
+C:\Users\Charan_Kumar\source\repos\DotNetOopsConcepts\ConsoleApp1\StaticInstanceBreakContinueConcepts\bin\Debug\net6.0\AdvancedConceptsCSharp.dll
+C:\Users\Charan_Kumar\source\repos\DotNetOopsConcepts\ConsoleApp1\StaticInstanceBreakContinueConcepts\bin\Debug\net6.0\AdvancedConceptsCSharp.pdb
+C:\Users\Charan_Kumar\source\repos\DotNetOopsConcepts\ConsoleApp1\StaticInstanceBreakContinueConcepts\bin\Debug\net6.0\Oops Concepts Modules.dll
+C:\Users\Charan_Kumar\source\repos\DotNetOopsConcepts\ConsoleApp1\StaticInstanceBreakContinueConcepts\bin\Debug\net6.0\Oops Concepts Modules.pdb
+C:\Users\Charan_Kumar\source\repos\DotNetOopsConcepts\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6.0\AdvancedConceptsCSharp.csproj.CopyComplete
+C:\Users\Charan_Kumar\source\repos\DotNetOopsConcepts\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6.0\AdvancedConceptsCSharp.dll
+C:\Users\Charan_Kumar\source\repos\DotNetOopsConcepts\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6.0\refint\AdvancedConceptsCSharp.dll
+C:\Users\Charan_Kumar\source\repos\DotNetOopsConcepts\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6.0\AdvancedConceptsCSharp.pdb
+C:\Users\Charan_Kumar\source\repos\DotNetOopsConcepts\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6.0\AdvancedConceptsCSharp.genruntimeconfig.cache
+C:\Users\Charan_Kumar\source\repos\DotNetOopsConcepts\ConsoleApp1\StaticInstanceBreakContinueConcepts\obj\Debug\net6.0\ref\AdvancedConceptsCSharp.dll

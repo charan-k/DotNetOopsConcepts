@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DotNetPractice\\ConsoleApp1\\APIAutomationUsingHttpClient\\APIAutomationUsingHttpClient.csproj": {}
+    "C:\\Users\\Charan_Kumar\\source\\repos\\DotNetOopsConcepts\\ConsoleApp1\\APIAutomationUsingHttpClient\\APIAutomationUsingHttpClient.csproj": {}
   },
   "projects": {
-    "C:\\DotNetPractice\\ConsoleApp1\\APIAutomationUsingHttpClient\\APIAutomationUsingHttpClient.csproj": {
+    "C:\\Users\\Charan_Kumar\\source\\repos\\DotNetOopsConcepts\\ConsoleApp1\\APIAutomationUsingHttpClient\\APIAutomationUsingHttpClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DotNetPractice\\ConsoleApp1\\APIAutomationUsingHttpClient\\APIAutomationUsingHttpClient.csproj",
+        "projectUniqueName": "C:\\Users\\Charan_Kumar\\source\\repos\\DotNetOopsConcepts\\ConsoleApp1\\APIAutomationUsingHttpClient\\APIAutomationUsingHttpClient.csproj",
         "projectName": "APIAutomationUsingHttpClient",
-        "projectPath": "C:\\DotNetPractice\\ConsoleApp1\\APIAutomationUsingHttpClient\\APIAutomationUsingHttpClient.csproj",
+        "projectPath": "C:\\Users\\Charan_Kumar\\source\\repos\\DotNetOopsConcepts\\ConsoleApp1\\APIAutomationUsingHttpClient\\APIAutomationUsingHttpClient.csproj",
         "packagesPath": "C:\\Users\\Charan_Kumar\\.nuget\\packages\\",
-        "outputPath": "C:\\DotNetPractice\\ConsoleApp1\\APIAutomationUsingHttpClient\\obj\\",
+        "outputPath": "C:\\Users\\Charan_Kumar\\source\\repos\\DotNetOopsConcepts\\ConsoleApp1\\APIAutomationUsingHttpClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Charan_Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,7 +67,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -76,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

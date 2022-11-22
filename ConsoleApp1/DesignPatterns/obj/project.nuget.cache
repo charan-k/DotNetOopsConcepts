@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QrG0rKcbWZv0CfJUIgFdTaPa/DzgS5r64Dn0mnJRsfGlA5DMeX/fIePzCQbEsp12SNXLVGvJoSRrBs1g9H2cKQ==",
+  "dgSpecHash": "bL6FKOnKc9wmPKf9qZMYFIQDt9SQc0NFonErxAjmExAfNLFwGHjKkBs4GMD4oqpaojMcBt5z3do+x0LJoiKDfw==",
   "success": true,
-  "projectFilePath": "C:\\DotNetPractice\\ConsoleApp1\\DesignPatterns\\DesignPatterns.csproj",
+  "projectFilePath": "C:\\Users\\Charan_Kumar\\source\\repos\\DotNetOopsConcepts\\ConsoleApp1\\DesignPatterns\\DesignPatterns.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1v7886noROWb0j6+fm8yKhehk6blq/0sjN9C+vL6xld2aCiatv6uzIbMZxRycX0CF2bXXpGsdyGJy1+5TF0viA==",
+  "dgSpecHash": "adYoAaIYhmOF3yNq8jFezH8HWT6wivav3yE+RJjuwHMrPuf7mNapIHFkjcJhd6KoWfn7QPN1PTRNhfqn+L2sqA==",
   "success": true,
-  "projectFilePath": "C:\\DotNetPractice\\ConsoleApp1\\StringPractice\\StringPractice.csproj",
+  "projectFilePath": "C:\\Users\\Charan_Kumar\\source\\repos\\DotNetOopsConcepts\\ConsoleApp1\\StringPractice\\StringPractice.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

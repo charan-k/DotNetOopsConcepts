@@ -7,6 +7,18 @@ namespace LinqConcepts
         static void Main(string[] args)
         {
             #region Order by to sort
+
+            // Get the first word and last word
+
+            string sentence = "Hello World"; //Sentence
+            string[] words11 = sentence.Split(" ");
+
+            string first = words11[0]; //First word
+            string last = words11[1];
+
+          //  string last = sentence.Split(" ")[sentence.Split(" ").Length - 1]; //Last word
+            Console.WriteLine(first + " " + last);
+
             string[] words = { "cherry", "apple","sun", "blueberry","start","stop" };
             var sortedWords = from w in words orderby w select w;
             Console.WriteLine("The sorted list of words:");
@@ -74,9 +86,11 @@ namespace LinqConcepts
 
             var resulty = skywords.Where(x => x.StartsWith("s"));
 
-            var resultz = words.Where(x => x.StartsWith("s"));
-            
-            var resl = skywords.FindAll(x => x.Length == 3);
+            var resultz = words.Where(x => x.StartsWith("s") || x.StartsWith("a"));
+
+            var strContains = words.Where(x => x.Contains("a"));
+
+             var resl = skywords.FindAll(x => x.Length == 3);
 
             var rsa   = skywords.FindAll(x => x.StartsWith('s'));
 

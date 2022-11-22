@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DotNetPractice\\ConsoleApp1\\ConsoleApp5\\Oops Encapsulation.csproj",
+      "projectUniqueName": "C:\\Users\\Charan_Kumar\\source\\repos\\DotNetOopsConcepts\\ConsoleApp1\\ConsoleApp5\\Oops Encapsulation.csproj",
       "projectName": "Oops Encapsulation",
-      "projectPath": "C:\\DotNetPractice\\ConsoleApp1\\ConsoleApp5\\Oops Encapsulation.csproj",
+      "projectPath": "C:\\Users\\Charan_Kumar\\source\\repos\\DotNetOopsConcepts\\ConsoleApp1\\ConsoleApp5\\Oops Encapsulation.csproj",
       "packagesPath": "C:\\Users\\Charan_Kumar\\.nuget\\packages\\",
-      "outputPath": "C:\\DotNetPractice\\ConsoleApp1\\ConsoleApp5\\obj\\",
+      "outputPath": "C:\\Users\\Charan_Kumar\\Source\\Repos\\DotNetOopsConcepts\\ConsoleApp1\\ConsoleApp5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Charan_Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\DotNetPractice\\ConsoleApp1\\ConsoleApp1\\Oops Concepts Modules.csproj": {
-              "projectPath": "C:\\DotNetPractice\\ConsoleApp1\\ConsoleApp1\\Oops Concepts Modules.csproj"
+            "C:\\Users\\Charan_Kumar\\source\\repos\\DotNetOopsConcepts\\ConsoleApp1\\ConsoleApp1\\Oops Concepts Modules.csproj": {
+              "projectPath": "C:\\Users\\Charan_Kumar\\source\\repos\\DotNetOopsConcepts\\ConsoleApp1\\ConsoleApp1\\Oops Concepts Modules.csproj"
             }
           }
         }
@@ -74,7 +74,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -83,7 +84,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

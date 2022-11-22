@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DotNetPractice\\ConsoleApp1\\RestSharpTraining\\RestSharpTraining.csproj": {}
+    "C:\\Users\\Charan_Kumar\\source\\repos\\DotNetOopsConcepts\\ConsoleApp1\\RestSharpTraining\\RestSharpTraining.csproj": {}
   },
   "projects": {
-    "C:\\DotNetPractice\\ConsoleApp1\\RestSharpTraining\\RestSharpTraining.csproj": {
+    "C:\\Users\\Charan_Kumar\\source\\repos\\DotNetOopsConcepts\\ConsoleApp1\\RestSharpTraining\\RestSharpTraining.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DotNetPractice\\ConsoleApp1\\RestSharpTraining\\RestSharpTraining.csproj",
+        "projectUniqueName": "C:\\Users\\Charan_Kumar\\source\\repos\\DotNetOopsConcepts\\ConsoleApp1\\RestSharpTraining\\RestSharpTraining.csproj",
         "projectName": "RestSharpTraining",
-        "projectPath": "C:\\DotNetPractice\\ConsoleApp1\\RestSharpTraining\\RestSharpTraining.csproj",
+        "projectPath": "C:\\Users\\Charan_Kumar\\source\\repos\\DotNetOopsConcepts\\ConsoleApp1\\RestSharpTraining\\RestSharpTraining.csproj",
         "packagesPath": "C:\\Users\\Charan_Kumar\\.nuget\\packages\\",
-        "outputPath": "C:\\DotNetPractice\\ConsoleApp1\\RestSharpTraining\\obj\\",
+        "outputPath": "C:\\Users\\Charan_Kumar\\source\\repos\\DotNetOopsConcepts\\ConsoleApp1\\RestSharpTraining\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Charan_Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,7 +71,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -80,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

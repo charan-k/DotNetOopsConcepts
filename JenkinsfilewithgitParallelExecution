@@ -1,0 +1,36 @@
+pipeline {
+  agent any
+  stages {
+    stage('Build') {
+      steps {
+        echo 'Build'
+      }
+    }
+
+    stage('Test') {
+      parallel {
+        stage('Smoke') {
+          steps {
+            echo 'smoke'
+               git branch: 'main', credentialsId: '196cbe21-0cab-439d-8bbc-adc1b16df1ef', url: 'https://github.com/charan-k/DotNetOopsConcepts.git'
+          }
+        }
+
+        stage('Regression') {
+          steps {
+            echo 'Regression'
+            node(label: 'node1')
+          }
+        }
+
+      }
+    }
+
+    stage('Report') {
+      steps {
+        echo 'results'
+      }
+    }
+
+  }
+}

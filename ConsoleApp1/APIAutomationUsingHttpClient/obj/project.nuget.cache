@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XJLcAkDA1o6YIkkN8z0vQc8/It1tTkWxIhhGY5/pnuaNskWBCCQmX8nYB+CyMBzlyRgSbfjH9Vf2qDSHwhRJcA==",
+  "dgSpecHash": "32dWEMZv5Bi3FIKaSYcFooSLYoNibU3Puzdu0wJJZsslmZIaeaujkQLs0ucYkFAv7QK0+OjGUGwlmrEdCzQH0w==",
   "success": true,
-  "projectFilePath": "C:\\DotNetPractice\\ConsoleApp1\\APIAutomationUsingHttpClient\\APIAutomationUsingHttpClient.csproj",
+  "projectFilePath": "C:\\Users\\Charan_Kumar\\source\\repos\\DotNetOopsConcepts\\ConsoleApp1\\APIAutomationUsingHttpClient\\APIAutomationUsingHttpClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Charan_Kumar\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Charan_Kumar\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

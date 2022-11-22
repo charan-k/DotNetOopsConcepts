@@ -108,11 +108,18 @@ namespace StringPractice
             Console.WriteLine(sb);
 
             #endregion
-            //To find the numeric content from the input1 word
+
+            //To find the numeric content from the input1 word which has numeric and alphabets
 
             string input1 = "ABC3454 ";
             string outputnumber = string.Concat(input1.Where(Char.IsDigit));
 
+            // To find the string content from the word which has stringandnumeric in it
+
+            string outputString = string.Concat(input1.Where(char.IsLetter));
+
+
+            Console.WriteLine(outputString);
             // To find the string content from the word which has stringandnumeric in it
 
             string input2 = "helloworld123";
