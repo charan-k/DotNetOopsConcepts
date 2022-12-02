@@ -8,13 +8,14 @@ pipeline {
                 git branch: 'main', credentialsId: '196cbe21-0cab-439d-8bbc-adc1b16df1ef', url: 'https://github.com/charan-k/DotNetOopsConcepts.git'
              }
           }
-		  stage('Build + SonarQube analysis') {
-    def sqScannerMsBuildHome = tool 'Scanner for MSBuild 4.6'
-    withSonarQubeEnv('My SonarQube Server') {
-      bat "${sqScannerMsBuildHome}\\SonarQube.Scanner.MSBuild.exe begin /k:myKey"
-      bat 'MSBuild.exe /t:Rebuild'
-      bat "${sqScannerMsBuildHome}\\SonarQube.Scanner.MSBuild.exe end"
-		}  
+		  stage('SonarQube Analysis') {
+    def msbuildHome = tool 'Default MSBuild' // Replace with Global Tool > MSBuild > MSBuild installations > Name
+    def scannerHome = tool 'SonarScanner for MSBuild' // Replace with Global Tool > SonarScanner for MSBuild > SonarScanner for MSBuild installations > Name
+    withSonarQubeEnv() {
+      bat "\"${scannerHome}\\SonarScanner.MSBuild.exe\" begin /k:\"PROJECT_KEY\""
+      bat "\"${msbuildHome}\\MSBuild.exe\" /t:Rebuild"
+      bat "\"${scannerHome}\\SonarScanner.MSBuild.exe\" end"
+    }
 		
      }
 	 }
