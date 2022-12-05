@@ -1,23 +1,11 @@
-pipeline {
-    agent any
-
-    stages {
-          stage('Build') 
-          {
-            steps {
-                git branch: 'main', credentialsId: '196cbe21-0cab-439d-8bbc-adc1b16df1ef', url: 'https://github.com/charan-k/DotNetOopsConcepts.git'
-             }
-          }
-		  stage('SonarQube Analysis') {
-    def msbuildHome = tool 'Default MSBuild' // Replace with Global Tool > MSBuild > MSBuild installations > Name
-    def scannerHome = tool 'SonarScanner for MSBuild' // Replace with Global Tool > SonarScanner for MSBuild > SonarScanner for MSBuild installations > Name
-    withSonarQubeEnv() {
-      bat "\"${scannerHome}\\SonarScanner.MSBuild.exe\" begin /k:\"PROJECT_KEY\""
-      bat "\"${msbuildHome}\\MSBuild.exe\" /t:Rebuild"
-      bat "\"${scannerHome}\\SonarScanner.MSBuild.exe\" end"
+ environment {
+    scannerHome = tool 'SonarQube Scanner – MSBuild'
+  }
+  steps {
+    withSonarQubeEnv('My – Sonar') {
+      echo "${scannerHome}"
+      bat "${scannerHome}\\SonarScanner.MSBuild.exe begin /k:Son /n:{project-name} /v:build"
+      bat 'msbuild project.sln /t:Rebuild /p:Configuration=Release'
+      bat "${scannerHome}\\SonarScanner.MSBuild.exe end"
     }
-		
-     }
-	 }
-	 }
-    
+  }
