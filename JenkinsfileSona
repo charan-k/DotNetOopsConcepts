@@ -4,8 +4,8 @@
   steps {
     withSonarQubeEnv('My – Sonar') {
       echo "${scannerHome}"
-      bat "${scannerHome}\\SonarScanner.MSBuild.exe begin /k:Son /n:{project-name} /v:build"
-      bat 'msbuild project.sln /t:Rebuild /p:Configuration=Release'
+      bat "${scannerHome}\\SonarScanner.MSBuild.exe begin /k:Son /n:ConsoleApp1 /v:build"
+      bat 'msbuild DotNetPractice.sln /t:Rebuild /p:Configuration=Release'
       bat "${scannerHome}\\SonarScanner.MSBuild.exe end"
     }
   }
